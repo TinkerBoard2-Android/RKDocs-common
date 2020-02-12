@@ -13,8 +13,6 @@ or transplants the corresponding Module Code from RK3066¡¢RK3188 or RK3288;
 5£©Sofia 3GR camera support situation£¬please refer to¡¶Rockchip SOFIA 3G-R_PMB8018(x3_C3230RK)_Camera_Module_AVL¡·¡£
 
 6) Sensor driver develop documents£º
-RK3288/RK3399 Linux kernel-4.4 cif isp1x driver¡¢sensor driver introduction document: ¡¶CIF_ISP10_Driver_User_Manual_V1.0_20171124¡·
-RV1108 Linux kernel-3.10 cif isp1x driver¡¢sensor driver introduction document£º¡¶CIF_ISP11_Driver_User_Manual_V1.0¡·
 RK3288/RK3399/RK3368/RK3326 android isp driver associated introduction document£º¡¶RK_ISP10_Camera_User_Manual_V2.2¡·
 
 7£©RK3288/RK3399/RK3368/RK3326 Android isp driver Debuggind Method and FAQ Solutions Documents£º
