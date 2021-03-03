@@ -1,0 +1,17 @@
+1）RK3399/RK3288/RK3368/RK3326/RK3399Pro android-9.0及其以上版本rkisp1 driver、sensor driver、vcm driver、rk1608 ap dirver说明相关文档: 
+《RKISP_Driver_User_Manual_v1.3_20190919》
+
+2）RK3126C/RK3288/RK3368/RK3326 android-9.0及其以上版本camera sensor接cif控制器驱动可参考：
+《RKCIF_Driver_User_Manual_v1.0.pdf》
+
+3）RK3288/RK3399/RK3368/RK3326 android-9.0及其以上版本camera HAL3参考文档：
+《camera_hal3_user_manual_v2.3.pdf》
+
+4）RK3288/RK3399/RK3368/RK3326 android-9.0及其以上版本Camera engine参考文档：
+《camera_engine_rkisp_user_manual_v2.2.pdf》
+
+5）RK3288/RK3399/RK3368/RK3326 android-9.0及其以上版本IQ效果文件参数说明文档：
+《RKISP1_IQ_Parameters_User_Guide_v1.0_20190606》 
+
+6）usb camera参考文档：
+《USB_UVC_Integrated_Cameras.pdf》
