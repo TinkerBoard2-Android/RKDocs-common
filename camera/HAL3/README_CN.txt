@@ -15,3 +15,11 @@
 
 6）usb camera参考文档：
 《USB_UVC_Integrated_Cameras.pdf》
+
+7）RK356x等使用rkisp2x调试：CIS(CMOS IMAGE SENSOR)驱动、马达驱动、闪光灯驱动及DTS配置、关键数据类型及关键API说明、驱动移植步骤和FAQ说明文档：
+《Rockchip_Driver_Guide_ISP2x_CN_v1.0.3.pdf》
+
+8）RK356x等使用rkisp2x对应rkaiq库api说明文档：
+《Rockchip_Development_Guide_ISP2x_CN_v1.6.4.pdf》
+
+备注：https://redmine.rock-chips.com/documents/53中可以查看最新相关文档
